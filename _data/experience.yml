@@ -38,7 +38,7 @@
     The team's main focus was developing a web application designed to be used on a Interactive Whitebord. We also 
     maintained an <mark>Android</mark> Printer application where we concentrated on User Experience improvements
 
-    Towards the end of my role, I developed a Web Application using <mark>PolymerJs</mark> for internal
+    Towards the end of my role, I developed a Web Application using <mark>PolymerJS</mark> for internal
     and external use for classifying Image Data to be used in Machine Learning applications. This application 
     became a pivotal part of a Recurrent Neural Network I developed using <mark>Python</mark> to detect hand written
     text to be incorporated into the Interactive White Board application.
@@ -49,9 +49,10 @@
   dates: December 2016 - June 2017
   job_title: Support Engineer
   description: |
-    As a Support Engineer, I was tasked with developing a web platform using Python and Django for the support team and 
-    I to use when diagnosing issues and automating frequent or time-consuming tasks for clients. I also supported clients 
-    with installation, deployment and ongoing operation of the Osirium PAM Platform.
+    During my time at Osirium as a Support Engineer, I supported our clients with installation, deployment and ongoing operation 
+    of the Osirium PAM Platform. I was also tasked with developing a web platform using <mark>Python</mark>
+    and <mark>Django</mark> for the support team and I to use when diagnosing issues and automating frequent or time-consuming tasks 
+    for clients. This platform is still in use today and greatly improves the support turn around on issues.
 
 - company: Adestra
   link: www.adestra.com
@@ -59,7 +60,7 @@
   job_title: Junior Technical Solutions Developer
   description: |
     As a Junior Technical Solutions Developer, I wrote a number of custom reports and exports of data for clients using 
-    Perl where the client’s requirements are not currently available or possible in the system. I also helped resolve 
+    <mark>Perl</mark> where the client’s requirements are not currently available or possible in the MessageFocus system. I also helped resolve 
     escalated cases that the 2nd Line Support Team required more assistance with usually where the case requires further 
     time or understanding of the MessageFocus system.
 
