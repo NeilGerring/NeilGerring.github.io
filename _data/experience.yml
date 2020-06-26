@@ -10,7 +10,6 @@
     the <mark>ReactJS</mark> frontend. The frontend utilises a WebSocket and a number of REST APIs to the 
     <mark>Golang</mark> for building the docker image.
 
-
     Previously before developing for the PPA platform, I was developing <mark>Python</mark> packages
     that integrated with Third Party services such as Active Directory and Microsoft SQL Server. 
     These packages can then be used in the tasks developed for PPA. I also used these packages for 
@@ -25,10 +24,10 @@
   description: |
     During my short time at Hypaship, I worked with a small team of developers accross Europe 
     developing the Hypaship Delivery Platform. My main focus was helping to define Technical Requirements 
-    for new features as well as for a new Android Application.
+    for a new Android Application, as well as starting to develop a prototype using <mark>React Native</mark>.
 
-    Once the Technical Requirements were defined for the Android Application, I started to develop a 
-    prototype using <mark>React Native</mark>.
+    I was also responsible for helping the HR Team hire new developers for the UK based team, this involved 
+    being part of the first interviews and providing some coding exercises.
 
 - company: Software Imaging
   dates: June 2017 - July 2018
