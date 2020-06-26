@@ -48,8 +48,7 @@
     I to use when diagnosing issues and automating frequent or time-consuming tasks for clients. I also supported clients 
     with installation, deployment and ongoing operation of the Osirium PAM Platform.
 
-- layout: right
-  company: Adestra
+- company: Adestra
   link: www.adestra.com
   dates: January 2016 - December 2016
   job_title: Junior Technical Solutions Developer
@@ -59,7 +58,8 @@
     escalated cases that the 2nd Line Support Team required more assistance with usually where the case requires further 
     time or understanding of the MessageFocus system.
 
-- company: Adestra
+- layout: right
+  company: Adestra
   link: www.adestra.com
   dates: July 2015 - December 2015
   job_title: Second Line Support Engineer
@@ -67,8 +67,7 @@
     As a Second Line Support Representative, I worked on investigating escalated queries from the support team that needed a 
     more in depth knowledge of the system. These queries often required accessing databases to determine the cause or checking the system logs.
 
-- layout: right
-  company: Adestra
+- company: Adestra
   link: www.adestra.com
   dates: June 2014 - June 2015
   job_title: Senior Support Representative
@@ -77,7 +76,8 @@
     As part of my role, I supported clients in a first line support role on a daily basis and supported the team regarding any 
     more difficult queries, such as API related queries.
 
-- company: Adestra
+- layout: right
+  company: Adestra
   link: www.adestra.com
   dates: March 2013 - June 2014
   job_title: Support Representative
