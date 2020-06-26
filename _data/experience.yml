@@ -8,7 +8,7 @@
     Task Builder feature which enables end users to build Docker based tasks using <mark>YAML</mark>. 
     The Task Builder feature incorporates a code editor which includes <mark>YAML</mark> validation into 
     the <mark>ReactJS</mark> frontend. The frontend utilises a WebSocket and a number of REST APIs to the 
-    <mark>Golang</mark> for building the docker image.
+    <mark>Golang</mark>  backend for building the docker image.
 
     Previously before developing for the PPA platform, I was developing <mark>Python</mark> packages
     that integrated with Third Party services such as Active Directory and Microsoft SQL Server. 
