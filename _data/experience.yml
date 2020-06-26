@@ -34,9 +34,14 @@
   job_title: Junior Software Engineer
   link: www.softwareimaging.com
   description: |
-    As a Junior Software Engineer, I developed a web application for internal and external use for classifying Image Data to be used in 
-    Machine Learning applications. This web application was also used for classifying the data to be used in a Recurrent Neural Network 
-    I helped to develop for detecting hand written text.
+    While working at Software Imaging, I worked in a small Agile team that developed a number of innovating products. 
+    The team's main focus was developing a web application designed to be used on a Interactive Whitebord. We also 
+    maintained an <mark>Android</mark> Printer application where we concentrated on User Experience improvements
+
+    Towards the end of my role, I developed a Web Application using <mark>PolymerJs</mark> for internal
+    and external use for classifying Image Data to be used in Machine Learning applications. This application 
+    became a pivotal part of a Recurrent Neural Network I developed using <mark>Python</mark> to detect hand written
+    text to be incorporated into the Interactive White Board application.
 
 - layout: right
   company: Osirium
