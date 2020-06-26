@@ -1,0 +1,42 @@
+# Site
+repository: neilgerring/neilgerring.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Neil Gerring
+title: Software Developer
+email: ng@neilgerring.co.uk
+website: www.neilgerring.co.uk
+
+# Social links
+github_username: neilgerring
+linkedin_username: neilgerring
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/me.JPG
+
+about_content: |
+  Hi, my name is Neil Gerring, I'm a software developer with over 4 years experience, based in the Oxfordshire.
+  I am currently working for the Osirium as a software engineer on a task automation platform called PPA using 
+  <mark>Golang</Mark>,<mark>ReactJS</Mark>,<mark>Postgresql</Mark> and <mark>Linuxkit</Mark>.
+
+  I enjoy developing a range of software whether it be designing UI for a user and working to ensure the User Experience is top notch 
+  or working in the backend working on REST APIs and connecting to databases.
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
+  with something new. The things that I currently have the most experience working with are:
+  <mark>ReactJS</mark>,
+  <mark>Python</mark>,
+  <mark>Golang</mark>,
+  <mark>Linuxkit</Mark>.
+  <mark>Postgresql</mark> and
+  <mark>git</mark> services.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme

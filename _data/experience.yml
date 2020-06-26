@@ -1,0 +1,72 @@
+- company: Osirium
+  dates: November 2018 - Present
+  link: www.osirium.com
+  job_title: Software Engineer
+  description: |
+    As a Software Engineer, I currently work on the Osirium PPA Platform where I am currently developing and improving the Task Builder 
+    feature that was recently launched. I have also worked on developing Python packages that can be used when developing automation 
+    tasks to be used in the PPA platform.
+
+- layout: right
+  company: Hypaship
+  link: www.hypaship.com
+  dates: November 2015 - August 2017
+  job_title: Junior Software Engineer
+  description: |
+    As a Junior Software Engineer, I helped develop new features for the Hypaship Delivery platform where I would help define the 
+    technical requirements. I also helped the HR team with hiring further new developers.
+
+- company: Software Imaging
+  dates: June 2017 - July 2018
+  job_title: Junior Software Engineer
+  link: www.softwareimaging.com
+  description: |
+    As a Junior Software Engineer, I developed a web application for internal and external use for classifying Image Data to be used in 
+    Machine Learning applications. This web application was also used for classifying the data to be used in a Recurrent Neural Network 
+    I helped to develop for detecting hand written text.
+
+- layout: right
+  company: Osirium
+  link: www.osirium.com
+  dates: December 2016 - June 2016
+  job_title: Support Engineer
+  description: |
+    As a Support Engineer, I was tasked with developing a web platform using Python and Django for the support team and 
+    I to use when diagnosing issues and automating frequent or time-consuming tasks for clients. I also supported clients 
+    with installation, deployment and ongoing operation of the Osirium PAM Platform.
+
+- layout: right
+  company: Adestra
+  link: www.adestra.com
+  dates: January 2015 - December 2016
+  job_title: Junior Technical Solutions Developer
+  description: |
+    As a Junior Technical Solutions Developer, I wrote a number of custom reports and exports of data for clients using 
+    Perl where the client’s requirements are not currently available or possible in the system. I also helped resolve 
+    escalated cases that the 2nd Line Support Team required more assistance with usually where the case requires further 
+    time or understanding of the MessageFocus system.
+
+- company: Adestra
+  link: www.adestra.com
+  dates: July 2015 - December 2015
+  job_title: Second Line Support Engineer
+  description: |
+    As a Second Line Support Representative, I worked on investigating escalated queries from the support team that needed a 
+    more in depth knowledge of the system. These queries often required accessing databases to determine the cause or checking the system logs.
+
+- layout: right
+  company: Adestra
+  link: www.adestra.com
+  dates: June 2014 - June 2015
+  job_title: Senior Support Representative
+  description: |
+    As a Senior Support Representative, I worked as a liaison between our 2nd line support team and first line support team. 
+    As part of my role, I supported clients in a first line support role on a daily basis and supported the team regarding any 
+    more difficult queries, such as API related queries.
+
+- company: Adestra
+  link: www.adestra.com
+  dates: March 2013 - June 2014
+  job_title: Support Representative
+  description: |
+    As a Support Representative, I supported a number of MessageFocus users with a range of queries from HTML email amendments to administration changes.
