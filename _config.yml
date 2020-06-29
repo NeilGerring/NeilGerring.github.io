@@ -11,10 +11,6 @@ website: www.neilgerring.co.uk
 # Social links
 github_username: neilgerring
 linkedin_username: neilgerring
-# pinterest_username:
-# youtube_username:
-# googleplus_username:
-
 # About Section
 # about_title: About Me
 about_profile_image: images/me.JPG
@@ -31,9 +27,9 @@ about_content: |
   <mark>ReactJS</mark>,
   <mark>Python</mark>,
   <mark>Golang</mark>,
-  <mark>Linuxkit</Mark>.
+  <mark>Linuxkit</Mark>,
   <mark>Postgresql</mark> and
-  <mark>git</mark> services.
+  <mark>git</mark>.
 
 # Footer
 footer_show_references: false
