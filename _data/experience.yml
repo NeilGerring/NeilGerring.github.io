@@ -50,10 +50,15 @@
   dates: December 2016 - June 2017
   job_title: Support Engineer
   description: |
-    During my time at Osirium as a Support Engineer, I supported our clients with installation, deployment and ongoing operation 
-    of the Osirium PAM Platform. I was also tasked with developing a web platform using <mark>Python</mark>
-    and <mark>Django</mark> for the support team and I to use when diagnosing issues and automating frequent or time-consuming tasks 
-    for clients. This platform is still in use today and greatly improves the support turn around on issues.
+    As a Support Engineer, I supported our clients with installation, deployment and ongoing operation 
+    of the Osirium PAM Platform. I developed a web application using <mark>Python</mark>
+    and <mark>Django</mark> for diagnosing issues and automating frequent or time-consuming tasks 
+    for clients.
+
+    <i>Highlights:</i>
+      - Supported a number of clients with the operation of Osirirum PAM.
+      - Implemented <mark>Celery</mark> and <mark>RabbitMQ</mark> for long running tasks. 
+      - Integrated <mark>ldaps</mark> authentication.
 
 - company: Adestra
   link: www.adestra.com
