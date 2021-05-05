@@ -1,26 +1,25 @@
 - company: Osirium
   dates: November 2018 - Present
   link: www.osirium.com
-  job_title: Software Engineer
+  job_title: Software Developer
   description: |
     I am currently working at Osirium as a Software Developer developing for Osirium PPA 
-    which is a Task Automation platform. My main focus at the moment is developing and improving the 
-    Task Builder feature which enables end users to build Docker based tasks using <mark>YAML</mark>. 
-    The Task Builder feature incorporates a code editor which includes <mark>YAML</mark> validation into 
-    the <mark>ReactJS</mark> frontend. The frontend utilises a WebSocket and a number of REST APIs to the 
-    <mark>Golang</mark>  backend for building the docker image.
+    which is a Task Automation platform. Working as part of a small team of 4 developers, I have an opportunity 
+    to work on a number of areas of the platform built using <mark>ReactJS</mark>, <mark>Golang</mark> and [LinuxKit](https://github.com/linuxkit/linuxkit).
 
-    Previously before developing for the PPA platform, I was developing <mark>Python</mark> packages
-    that integrated with Third Party services such as Active Directory and Microsoft SQL Server. 
-    These packages can then be used in the tasks developed for PPA. I also used these packages for 
-    developing a number of internal tasks that our HR team can use. Such as a New Starter task, allowing 
-    the HR team to easily set up a New Starter without the need for a Support ticket to be raised.
+    <i>Highlights:</i>
+
+      - Integrating <mark>Kerberos</mark> support and generating Kerberos Ticket Granting Tickets.
+      - Managing Continuous Integration using <mark>Drone</mark> and <mark>Github Actions</mark>.
+      - Developing <mark>Python</mark> packages to integrate with Third Party services.
+      - Improving User Experience across a number of areas.
+      - Automating IT Operations using PPA.
 
 - layout: right
   company: Hypaship
   link: www.hypaship.com
   dates: July 2018 - November 2018
-  job_title: Junior Software Engineer
+  job_title: Junior Software Developer
   description: |
     During my short time at Hypaship, I worked with a small team of developers accross Europe 
     developing the Hypaship Delivery Platform. My main focus was helping to define Technical Requirements 
@@ -31,7 +30,7 @@
 
 - company: Software Imaging
   dates: June 2017 - July 2018
-  job_title: Junior Software Engineer
+  job_title: Junior Software Developer
   link: www.softwareimaging.com
   description: |
     While working at Software Imaging, I worked in a small Agile team that developed a number of innovating products. 
