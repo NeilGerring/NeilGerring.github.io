@@ -24,9 +24,9 @@ about_content: |
   I enjoy developing a range of software across the stack and taking a feature from design and planning stages to completion.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
   with something new. The languages and frameworks I currently have the most experience working with are:
-  <mark>Python</mark>,
   <mark>Golang</mark>,
   <mark>ReactJS</mark>,
+  <mark>Python</mark>,
   and <mark>Postgresql</mark>.
 
 content:
@@ -46,11 +46,12 @@ content:
 
           <i>Highlights:</i>
 
-            - Integrating <mark>Kerberos</mark> support and generating Kerberos Ticket Granting Tickets.
+            - Implemented PGP Key rotation.
+            - Syncronising users from Active Directory via <mark>LDAPS</mark>.
+            - Improved concurrent task performance by ten-fold.
+            - Integrated <mark>Kerberos</mark> support for authenticating to Windows Servers.
             - Managing Continuous Integration using <mark>Drone</mark> and <mark>Github Actions</mark>.
-            - Developing <mark>Python</mark> packages to integrate with Third Party services.
-            - Improving User Experience across a number of areas.
-            - Automating IT Operations using PPA.
+            - Improving <mark>Postgres</mark> query performance.
 
       - layout: right
         border: weak
@@ -64,8 +65,9 @@ content:
           prototyping an Android Application using <mark>React Native</mark>.
 
           <i>Highlights:</i>
+
             - Defining Technical Requirements for new Android Application.
-            - Prototyping an Android Application using <mark>React Native</mark>
+            - Prototyping an Android Application using <mark>React Native</mark>.
             - Improved processes for hiring new developers.
 
       - layout: left
@@ -75,14 +77,13 @@ content:
         sub_title: Junior Software Developer
         link: www.softwareimaging.com
         description: |
-          I worked in a small Agile team that developed a number of innovating products. These products were designed arround 
-          improving the User Experience of using Interactve Whiteboards. 
+          I worked in a small Agile team that developed a number of innovating products. These products were designed around 
+          improving the User Experience of using Interactive Whiteboards. 
 
           <i>Highlights:</i>
             - Maintained a Chrome Extension and Web Application for hand written text on touch screens. 
-            - Developed a MVP for classifying Image Data for Machine Learning using <mark>PolymerJS</mark>
-            - Developed a Recurrent Neural Network to detect handwritten text using <mark>Python</mark>
-            - Improved User Experience of an Android Application.
+            - Developed a platform for classifying Image Data for Machine Learning using <mark>PolymerJS</mark>.
+            - Developed a Recurrent Neural Network to detect handwritten text using <mark>Python</mark>.
 
       - layout: right
         border: weak
@@ -92,14 +93,15 @@ content:
         sub_title: Support Engineer
         description: |
           As a Support Engineer, I supported our clients with installation, deployment and ongoing operation 
-          of the Osirium PAM Platform. I developed a web application using <mark>Python</mark>
+          of the Osirium PAM Platform as well as developed a web application using <mark>Python</mark>
           and <mark>Django</mark> for diagnosing issues and automating frequent or time-consuming tasks 
           for clients.
 
           <i>Highlights:</i>
+
             - Supported a number of clients with the operation of Osirirum PAM.
             - Implemented <mark>Celery</mark> and <mark>RabbitMQ</mark> for long running tasks. 
-            - Integrated <mark>ldaps</mark> authentication.
+            - Integrated <mark>LDAPS</mark> authentication.
 
       - layout: left
         border: weak
@@ -109,7 +111,7 @@ content:
         sub_title: Junior Technical Solutions Developer
         description: |
           As a Junior Technical Solutions Developer, I wrote a number of custom reports and exports of data for clients using 
-          <mark>Perl</mark> where the client’s requirements are not currently available or possible in the MessageFocus system. I also helped resolve 
+          <mark>Perl</mark> where the client's requirements were not currently available or possible in the MessageFocus system. I also helped resolve 
           escalated cases that the 2nd Line Support Team required more assistance with usually where the case requires further 
           time or understanding of the MessageFocus system.
 
