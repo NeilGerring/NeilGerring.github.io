@@ -1,6 +1,7 @@
-# Site
 repository: neilgerring/neilgerring.github.io
-favicon: images/favicon.ico
+
+version: 2
+darkmode: false
 
 # Personal info
 name: Neil Gerring
@@ -11,6 +12,7 @@ website: www.neilgerring.co.uk
 # Social links
 github_username: neilgerring
 linkedin_username: neil-gerring
+
 # About Section
 # about_title: About Me
 about_profile_image: images/me.JPG
@@ -27,8 +29,138 @@ about_content: |
   <mark>ReactJS</mark>,
   and <mark>Postgresql</mark>.
 
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Osirium
+        caption: November 2018 - Present
+        link: www.osirium.com
+        sub_title: Software Developer
+        description: |
+          I am currently working at Osirium as a Software Developer developing for Osirium PPA 
+          which is a Task Automation platform. Working as part of a small team of 4 developers, I have an opportunity 
+          to work on a number of areas of the platform built using <mark>ReactJS</mark>, <mark>Golang</mark> and [LinuxKit](https://github.com/linuxkit/linuxkit).
+
+          <i>Highlights:</i>
+
+            - Integrating <mark>Kerberos</mark> support and generating Kerberos Ticket Granting Tickets.
+            - Managing Continuous Integration using <mark>Drone</mark> and <mark>Github Actions</mark>.
+            - Developing <mark>Python</mark> packages to integrate with Third Party services.
+            - Improving User Experience across a number of areas.
+            - Automating IT Operations using PPA.
+
+      - layout: right
+        border: weak
+        title: Hypaship
+        link: www.hypaship.com
+        caption: July 2018 - November 2018
+        sub_title: Junior Software Developer
+        description: |
+          I worked with a small team of developers accross Europe developing the Hypaship Delivery Platform. 
+          My main focus was helping to define Technical Requirements for a new Android Application, as well as 
+          prototyping an Android Application using <mark>React Native</mark>.
+
+          <i>Highlights:</i>
+            - Defining Technical Requirements for new Android Application.
+            - Prototyping an Android Application using <mark>React Native</mark>
+            - Improved processes for hiring new developers.
+
+      - layout: left
+        border: weak
+        title: Software Imaging
+        caption: June 2017 - July 2018
+        sub_title: Junior Software Developer
+        link: www.softwareimaging.com
+        description: |
+          I worked in a small Agile team that developed a number of innovating products. These products were designed arround 
+          improving the User Experience of using Interactve Whiteboards. 
+
+          <i>Highlights:</i>
+            - Maintained a Chrome Extension and Web Application for hand written text on touch screens. 
+            - Developed a MVP for classifying Image Data for Machine Learning using <mark>PolymerJS</mark>
+            - Developed a Recurrent Neural Network to detect handwritten text using <mark>Python</mark>
+            - Improved User Experience of an Android Application.
+
+      - layout: right
+        border: weak
+        title: Osirium
+        link: www.osirium.com
+        caption: December 2016 - June 2017
+        sub_title: Support Engineer
+        description: |
+          As a Support Engineer, I supported our clients with installation, deployment and ongoing operation 
+          of the Osirium PAM Platform. I developed a web application using <mark>Python</mark>
+          and <mark>Django</mark> for diagnosing issues and automating frequent or time-consuming tasks 
+          for clients.
+
+          <i>Highlights:</i>
+            - Supported a number of clients with the operation of Osirirum PAM.
+            - Implemented <mark>Celery</mark> and <mark>RabbitMQ</mark> for long running tasks. 
+            - Integrated <mark>ldaps</mark> authentication.
+
+      - layout: left
+        border: weak
+        title: Adestra
+        link: www.adestra.com
+        caption: January 2016 - December 2016
+        sub_title: Junior Technical Solutions Developer
+        description: |
+          As a Junior Technical Solutions Developer, I wrote a number of custom reports and exports of data for clients using 
+          <mark>Perl</mark> where the client’s requirements are not currently available or possible in the MessageFocus system. I also helped resolve 
+          escalated cases that the 2nd Line Support Team required more assistance with usually where the case requires further 
+          time or understanding of the MessageFocus system.
+
+      - layout: right
+        border: weak
+        title: Adestra
+        link: www.adestra.com
+        caption: July 2015 - December 2015
+        sub_title: Second Line Support Engineer
+        description: |
+          As a Second Line Support Representative, I worked on investigating escalated queries from the support team that needed a 
+          more in depth knowledge of the system. These queries often required accessing databases to determine the cause or checking the system logs.
+
+      - layout: left
+        border: weak
+        title: Adestra
+        link: www.adestra.com
+        caption: June 2014 - June 2015
+        sub_title: Senior Support Representative
+        description: |
+          As a Senior Support Representative, I worked as a liaison between our 2nd line support team and first line support team. 
+          As part of my role, I supported clients in a first line support role on a daily basis and supported the team regarding any 
+          more difficult queries, such as API related queries.
+
+      - layout: right
+        title: Adestra
+        link: www.adestra.com
+        caption: March 2013 - June 2014
+        sub_title: Support Representative
+        description: |
+          As a Support Representative, I supported a number of MessageFocus users with a range of queries from HTML email amendments to administration changes.
+
 # Footer
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
+  ]
