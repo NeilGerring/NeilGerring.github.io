@@ -18,7 +18,7 @@ linkedin_username: neil-gerring
 about_profile_image: images/me.JPG
 
 about_content: |
-  Hi, my name is Neil Gerring, I'm a Full Stack Software Developer with over 5 years experience, based in Oxfordshire.
+  Hi, my name is Neil Gerring, I'm a Software Developer with over 6 years experience, based in Oxfordshire.
   I am currently working as a Software Developer for Osirium on their task automation platform, PPA.
 
   I enjoy developing a range of software across the stack and taking a feature from design and planning stages to completion.
@@ -41,16 +41,16 @@ content:
         sub_title: Software Developer
         description: |
           I am currently working at Osirium as a Software Developer developing for Osirium PPA 
-          which is a Task Automation platform. Working as part of a small team of 4 developers, I have an opportunity 
-          to work on a number of areas of the platform built using <mark>ReactJS</mark>, <mark>Golang</mark> and [LinuxKit](https://github.com/linuxkit/linuxkit).
+          which is a Task Automation platform. Working as part of a small team of 3 developers, I have an opportunity 
+          to work on a number of areas of the platform built using <mark>Golang</mark> and <mark>ReactJS</mark>. 
 
           <i>Highlights:</i>
 
-            - Implemented PGP Key rotation.
+            - Refactored a monolithic <mark>Golang</mark> package into multiple smaller unit tested packages. 
             - Syncronising users from Active Directory via <mark>LDAPS</mark>.
             - Improved concurrent task performance by ten-fold.
             - Integrated <mark>Kerberos</mark> support for authenticating to Windows Servers.
-            - Managing Continuous Integration using <mark>Drone</mark> and <mark>Github Actions</mark>.
+            - Implemented Continuous Integration using <mark>Drone</mark> and <mark>Github Actions</mark>.
             - Improving <mark>Postgres</mark> query performance.
 
       - layout: right
@@ -93,13 +93,13 @@ content:
         sub_title: Support Engineer
         description: |
           As a Support Engineer, I supported our clients with installation, deployment and ongoing operation 
-          of the Osirium PAM Platform as well as developed a web application using <mark>Python</mark>
+          of the Osirium PAM Platform. I also developed a web application using <mark>Python</mark>
           and <mark>Django</mark> for diagnosing issues and automating frequent or time-consuming tasks 
-          for clients.
+          for clients. This web application has been successfully in use for over 4 years. 
 
           <i>Highlights:</i>
 
-            - Supported a number of clients with the operation of Osirirum PAM.
+            - Supported a number of clients with the operation of Osirium PAM.
             - Implemented <mark>Celery</mark> and <mark>RabbitMQ</mark> for long running tasks. 
             - Integrated <mark>LDAPS</mark> authentication.
 
