@@ -39,6 +39,15 @@ content:
         caption: February 2023 - Present
         link: www.bet365.com
         sub_title: Software Developer
+        description: |
+          I currently work as a Software Developer at bet365 within their Responsible Gambling team. 
+          As part of this role, I help develop services to meet regulatory requirements as well as gambling controls. 
+
+          <i>Highlights</i>
+          
+            - Helping to train developers in Golang 
+            - Developed a service for deploying multiple services to a UAT environment 
+            - Implementing and maintaining gambling controls 
         
       - layout: right
         border: weak
