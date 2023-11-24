@@ -46,7 +46,7 @@ content:
           <i>Highlights</i>
           
             - Helping to train developers in Golang 
-            - Developed a service for deploying isolated versions of multiple services
+            - Developed a service for deploying multiple isolated services in a UAT environment 
             - Implementing and maintaining gambling controls 
         
       - layout: right
