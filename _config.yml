@@ -36,7 +36,14 @@ content:
       - layout: left
         border: weak
         title: Bet365
-        caption: February 2023 - Present
+        caption: March 2024 - Present
+        link: www.bet365.com
+        sub_title: Senior Software Developer
+
+      - layout: right
+        border: weak
+        title: Bet365
+        caption: February 2023 - March 2024
         link: www.bet365.com
         sub_title: Software Developer
         description: |
@@ -49,7 +56,7 @@ content:
             - Developed a service for deploying multiple isolated services in a UAT environment 
             - Implementing and maintaining gambling controls 
         
-      - layout: right
+      - layout: left
         border: weak
         title: Osirium
         caption: November 2018 - February 2023
@@ -69,7 +76,7 @@ content:
             - Implemented Continuous Integration using <mark>Drone</mark> and <mark>Github Actions</mark>.
             - Improving <mark>Postgres</mark> query performance.
 
-      - layout: left
+      - layout: right
         border: weak
         title: Hypaship
         link: www.hypaship.com
@@ -86,7 +93,7 @@ content:
             - Prototyping an Android Application using <mark>React Native</mark>.
             - Improved processes for hiring new developers.
 
-      - layout: right
+      - layout: left
         border: weak
         title: Software Imaging
         caption: June 2017 - July 2018
@@ -101,7 +108,7 @@ content:
             - Developed a platform for classifying Image Data for Machine Learning using <mark>PolymerJS</mark>.
             - Developed a Recurrent Neural Network to detect handwritten text using <mark>Python</mark>.
 
-      - layout: left
+      - layout: right
         border: weak
         title: Osirium
         link: www.osirium.com
@@ -119,7 +126,7 @@ content:
             - Implemented <mark>Celery</mark> and <mark>RabbitMQ</mark> for long running tasks. 
             - Integrated <mark>LDAPS</mark> authentication.
 
-      - layout: right
+      - layout: left
         border: weak
         title: Adestra
         link: www.adestra.com
@@ -131,7 +138,7 @@ content:
           escalated cases that the 2nd Line Support Team required more assistance with usually where the case requires further 
           time or understanding of the MessageFocus system.
 
-      - layout: left
+      - layout: right
         border: weak
         title: Adestra
         link: www.adestra.com
@@ -141,7 +148,7 @@ content:
           As a Second Line Support Representative, I worked on investigating escalated queries from the support team that needed a 
           more in depth knowledge of the system. These queries often required accessing databases to determine the cause or checking the system logs.
 
-      - layout: right
+      - layout: left
         border: weak
         title: Adestra
         link: www.adestra.com
@@ -152,7 +159,7 @@ content:
           As part of my role, I supported clients in a first line support role on a daily basis and supported the team regarding any 
           more difficult queries, such as API related queries.
 
-      - layout: left
+      - layout: right
         title: Adestra
         link: www.adestra.com
         caption: March 2013 - June 2014
