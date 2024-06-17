@@ -18,10 +18,7 @@ linkedin_username: neil-gerring
 about_profile_image: images/me.JPG
 
 about_content: |
-  Hi, my name is Neil Gerring, I'm a Senior Software Developer with over 7 years experience, based in Oxfordshire.
-  I am currently working as a Senior Software Developer for Bet365.
-
-  I enjoy developing a range of software across the stack and taking a feature from design and planning stages to completion.
+  I'm a Senior Software Developer with over 7 years experience, spending the last 5 years primarily working with Golang. I enjoy developing a range of software across the stack and taking a feature from design and planning stages to completion.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
   with something new. The languages and frameworks I currently have the most experience working with are:
   <mark>Golang</mark>,
@@ -39,7 +36,17 @@ content:
         caption: March 2024 - Present
         link: www.bet365.com
         sub_title: Senior Software Developer
+        description: |
+          I currently work as a Senior Software Developer at bet365 within their Responsible Gambling team. 
+          As part of this role, I help develop services to meet regulatory requirements as well as gambling controls. 
 
+          <i>Highlights</i>
+          
+            - Helping to mentor and train over 20 developers in Golang 
+            - Developed a service for deploying multiple isolated services in a UAT environment which serves all UAT traffic for our team
+            - Implementing and maintaining gambling controls 
+            - Improving QA processes
+            - Improving overall code quality
       - layout: right
         border: weak
         title: Bet365
@@ -47,15 +54,15 @@ content:
         link: www.bet365.com
         sub_title: Software Developer
         description: |
-          I currently work as a Software Developer at bet365 within their Responsible Gambling team. 
-          As part of this role, I help develop services to meet regulatory requirements as well as gambling controls. 
+          I worked as a Software Developer at bet365 within their Responsible Gambling team. 
+          As part of this role, I helped develop services to meet regulatory requirements as well as gambling controls. 
 
           <i>Highlights</i>
           
-            - Helping to train developers in Golang 
-            - Developed a service for deploying multiple isolated services in a UAT environment 
+            - Helping to mentor and train over 20 developers in Golang 
+            - Developed a service for deploying multiple isolated services in a UAT environment which serves all UAT traffic for our team
             - Implementing and maintaining gambling controls 
-        
+            - Participated in the On-Call rota
       - layout: left
         border: weak
         title: Osirium
