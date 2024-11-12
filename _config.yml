@@ -43,7 +43,7 @@ content:
           <i>Highlights</i>
           
             - Helping to mentor and train over 20 developers in Golang 
-            - Developed a service for deploying multiple isolated services in a UAT environment which serves all UAT traffic for our team
+            - Developed a service for deploying multiple isolated services in a UAT environment which handles over 8 million requests a day
             - Implementing and maintaining gambling controls 
             - Improving QA processes
             - Improving overall code quality
