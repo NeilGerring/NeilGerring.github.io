@@ -18,7 +18,7 @@ linkedin_username: neil-gerring
 about_profile_image: images/me.JPG
 
 about_content: |
-  I'm a Lead Software Developer with over 8 years experience, spending the last 5 years primarily working with Golang. I enjoy developing a range of software across the stack and taking a feature from design and planning stages to completion.
+  I'm a Lead Software Developer with over 9 years experience, spending the last 5 years primarily working with Golang. I enjoy developing a range of software across the stack and taking a feature from design and planning stages to completion.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
   with something new. The languages and frameworks I currently have the most experience working with are:
   <mark>Golang</mark>,
@@ -36,7 +36,13 @@ content:
         caption: March 2025 - Present
         link: www.bet365.com
         sub_title: Lead Software Developer
-        description:
+        description: |
+          As a Lead Software Developer in bet365’s Platform Team, I’ve contributed to our projects’ strategic and technical foundations.
+
+          <i>Highlights</i>
+          - Authoring comprehensive technical briefs to communicate complex concepts to stakeholders, ensuring alignment and informed decision-making.
+          - Mentoring  junior developers and peers, offering guidance, and providing constructive feedback
+          - Implementing solutions to promote the wide adoption of Google Cloud Platform (GCP).
       - layout: left
         border: weak
         title: Bet365
@@ -44,8 +50,8 @@ content:
         link: www.bet365.com
         sub_title: Senior Software Developer
         description: |
-          I currently work as a Senior Software Developer at bet365 within their Responsible Gambling team. 
-          As part of this role, I help develop services to meet regulatory requirements as well as gambling controls. 
+          I worked as a Senior Software Developer at bet365 within their Responsible Gambling team. 
+          As part of this role, I helped develop services to meet regulatory requirements as well as gambling controls. 
 
           <i>Highlights</i>
           
