@@ -27,6 +27,14 @@ about_content: |
   and <mark>Postgresql</mark>.
 
 content:
+  - title: Projects
+    layout: list
+    content: 
+      - layout: left
+        border: weak
+        title: ForgeOS
+        description: |
+          Forgeos is a robot-programming game written in Go, where players write WebAssembly programs that control robots on a 20×20 grid. I architected the system and the code was written by AI working to my plans. A highlight is the embedded web GUI. It ships inside the single Go binary with no Node toolchain and streams live simulation events over Server-Sent Events. The design keeps the UI from ever slowing the engine, and it leaves room for a future in-browser IDE.
   - title: Experience
     layout: list
     content:
